@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\bin\Debug\Aleff.Domain.dll.config
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\bin\Debug\Aleff.Domain.dll
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\bin\Debug\Aleff.Domain.pdb
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\obj\Debug\Aleff.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\obj\Debug\Aleff.Domain.csproj.CopyComplete
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\obj\Debug\Aleff.Domain.dll
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\obj\Debug\Aleff.Domain.pdb
+C:\Users\leona\source\repos\Alef\Aleff\Aleff.Domain\obj\Debug\Aleff.Domain.csproj.AssemblyReference.cache
